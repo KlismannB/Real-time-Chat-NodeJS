@@ -1,0 +1,27 @@
+{
+  "name": "real-time-chat-node-socket",
+  "version": "0.0.1",
+  "description": "This app is built with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KlismannB/Real-time-Chat-NodeJS.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "Socket.io"
+  ],
+  "author": "Klismann de Oliveira Barros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KlismannB/Real-time-Chat-NodeJS/issues"
+  },
+  "homepage": "https://github.com/KlismannB/Real-time-Chat-NodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^4.5.0"
+  }
+}
